@@ -1,7 +1,11 @@
 # Low-Surface-Brightness-Galaxy
-Catalog of Low Surface Brightness Galaxy includes 37,536 LSB galaxy candidates.
+Candidates_LSBG.csv: Catalog of Low Surface Brightness Galaxy includes 37,536 LSB galaxy candidates.
+
+TrainSample_LSBG.csv & ValSample_LSBG.csv: Catalog of Low Surface Brightness Galaxy in train set and val set.
 
 **Please Note:**
+
+The columns in the catalog represent：
 
 ***Flag***:  indicates source of the coordinates. '1' indicates that the R.A. and Dec. coordinates were provided by SDSS, while '0' indicates that the R.A. and Dec. coordinates were predicted by the GalCenterNet model.
 
